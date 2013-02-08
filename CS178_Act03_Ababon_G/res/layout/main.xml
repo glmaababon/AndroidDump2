@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>    <ScrollView
+        	xmlns:android="http://schemas.android.com/apk/res/android"
+    		xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            
+            <LinearLayout 
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+                  <TextView
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:text="@string/image1"
+        			tools:context=".MainActivity" />
+    
+    			<ImageView 
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:contentDescription="@string/image1"
+        			android:id="@+id/image1"/>
+    
+    			<TextView
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:text="@string/image2"
+        			tools:context=".MainActivity" />
+    
+    			<ImageView 
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:contentDescription="@string/image2"
+        			android:id="@+id/image2"/>
+    
+    			<TextView
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:text="@string/image3"
+        			tools:context=".MainActivity" />
+    
+    			<ImageView 
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:contentDescription="@string/image3"
+        			android:id="@+id/image3"/>
+    
+    			<TextView
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:text="@string/image4"
+        			tools:context=".MainActivity" />
+    
+    			<ImageView 
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:contentDescription="@string/image4"
+        			android:id="@+id/image4"/>
+    
+    			<TextView
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:text="@string/image5"
+        			tools:context=".MainActivity" />
+    
+    			<ImageView 
+        			android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			android:contentDescription="@string/image5"
+        			android:id="@+id/image5"/>
+            </LinearLayout>
+    </ScrollView>

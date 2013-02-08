@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CS178_act03_ababonActivity!</string>
+    <string name="app_name">CS178_act03_ababon</string>    
+    <string name="menu_settings">Settings</string>
+	<string name="image1">Image 1</string>
+    <string name="image2">Image 2</string>
+    <string name="image3">Image 3</string>
+    <string name="image4">Image 4</string>
+    <string name="image5">Image 5</string>
+    
+</resources>
